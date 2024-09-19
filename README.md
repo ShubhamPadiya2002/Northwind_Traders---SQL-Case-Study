@@ -10,6 +10,29 @@ Northwind Traders is a fictitious wholesale company specializes in importing and
 
 ❑ **Purpose of the Project** -- The purpose of this project is to conduct **comprehensive SQL analysis** on the Northwind Traders dataset which include **data Modelling (EER)** to understand the relationship between tables. In this project, We exploring various business insights through SQL queries.The Project covers 3 levels of analysis questions – Basic , Moderate & Advance Level.
 
+## EER Model
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="400">
+</p>
+
+**Some Examples of SQL Quries** 
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="400">
+</p>
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="400">
+</p>
+
+<p align = "center">
+    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="400">
+</p>
+
+
+
+
 
 
 
