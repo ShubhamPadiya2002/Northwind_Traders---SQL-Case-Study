@@ -1,7 +1,7 @@
 # Northwind Traders - Maven Analytics
 
 <p align = "center">
-    <img src="https://www.a1worldwidelogistics.com/shipping-company/wp-content/uploads/2019/10/lp-customs-broker-in-miami.gif" alt="Example GIF" width="700" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Northwind_Traders---SQL-Case-Study/blob/main/lp-customs-broker-in-miami.gif" alt="Example GIF" width="800" height="400">
 </p>
 
 Northwind Traders is a fictitious wholesale company specializes in importing and exporting a wide range of food and beverage products globally. The company collaborates with multiple shipping companies from around the world to get their products to their customers: United Package, Federal Shipping, and Speedy Express. It manages orders, products, customers, suppliers, and many other aspects of a small business.
