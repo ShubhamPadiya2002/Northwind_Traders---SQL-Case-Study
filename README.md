@@ -13,7 +13,7 @@ Northwind Traders is a fictitious wholesale company specializes in importing and
 ## EER Model
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Northwind_Traders---SQL-Case-Study/blob/main/Project%20Images/WhatsApp%20Image%202024-09-19%20at%2023.09.48_357c0d09.jpg" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Northwind_Traders---SQL-Case-Study/blob/main/Project%20Images/WhatsApp%20Image%202024-09-19%20at%2023.09.48_357c0d09.jpg" alt="Example IMG" width="800" height="500">
 </p>
 
 **Some Examples of SQL Quries** 
