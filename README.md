@@ -13,21 +13,21 @@ Northwind Traders is a fictitious wholesale company specializes in importing and
 ## EER Model
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Northwind_Traders---SQL-Case-Study/blob/main/Project%20Images/WhatsApp%20Image%202024-09-19%20at%2023.09.48_357c0d09.jpg" alt="Example IMG" width="800" height="400">
 </p>
 
 **Some Examples of SQL Quries** 
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Northwind_Traders---SQL-Case-Study/blob/main/Project%20Images/WhatsApp%20Image%202024-09-19%20at%2023.11.52_f437cb3f.jpg" alt="Example IMG" width="800" height="400">
 </p>
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Northwind_Traders---SQL-Case-Study/blob/main/Project%20Images/WhatsApp%20Image%202024-09-19%20at%2023.12.57_928200a1.jpg" alt="Example IMG" width="800" height="400">
 </p>
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Airbnb-Business-Analysis---EDA/blob/main/Business%20Model%20Picture.png" alt="Example IMG" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Northwind_Traders---SQL-Case-Study/blob/main/Project%20Images/WhatsApp%20Image%202024-09-19%20at%2023.14.09_c7a6f5d5.jpg" alt="Example IMG" width="800" height="400">
 </p>
 
 
